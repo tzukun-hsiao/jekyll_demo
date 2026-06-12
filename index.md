@@ -1,6 +1,6 @@
 ---
 layout: page
-title: home
+title: About
 ---
 
 This is my home page.
