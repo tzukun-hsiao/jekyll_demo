@@ -1,9 +1,6 @@
 ---
 layout: page
-title: Publications
+title: CV
 ---
 
-# My publications
-
-- Publication 1
-- Publication 2
+[Download My CV](assets/TKH-CV.pdf)
