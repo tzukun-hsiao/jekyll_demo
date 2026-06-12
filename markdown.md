@@ -7,8 +7,6 @@ title: Markdown
 
 ## Headings
 
-To create headings, use one or more `#` symbols.
-
 ```text
 # Heading 1
 ## Heading 2
@@ -20,38 +18,32 @@ To create headings, use one or more `#` symbols.
 
 ## Text Formatting
 
-*Italic text*
+`*Italic text*`: *Italic text*
 
-**Bold text**
+`**Bold text**`: **Bold text**
 
-***Bold and italic text***
+## Lists
+### Unordered List
 
-Example:
-
-Italic text
-
-Bold text
-
-Bold and italic text
-
-Lists
-Unordered List
+```text
+- Item 1
+- Item 2
+- Item 3
+```
 - Item 1
 - Item 2
 - Item 3
 
-Example:
 
-Item 1
-Item 2
-Item 3
-Ordered List
+### Ordered List
+
+```text
+1. First item
+2. Second item
+3. Third item
+```
+
 1. First item
 2. Second item
 3. Third item
 
-Example:
-
-First item
-Second item
-Third item
