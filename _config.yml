@@ -4,6 +4,5 @@ theme: minima
 
 header_pages:
   - index.md
-  - research.md
-  - education.md
-  - teaching.md
+  - cv.md
+  - markdown.md
