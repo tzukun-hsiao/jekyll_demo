@@ -1,4 +1,4 @@
-# This is the HOME page
+This is the HOME page
 
 Hi! Welcome to my home page.
 
