@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-This is my home page.
+You can put your bio here.
