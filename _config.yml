@@ -1,3 +1,9 @@
 title: Esther Hsiao
 description: Personal academic website
 theme: minima
+
+header_pages:
+  - about.md
+  - research.md
+  - education.md
+  - teaching.md
