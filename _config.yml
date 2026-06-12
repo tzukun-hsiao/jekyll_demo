@@ -3,7 +3,7 @@ description: Personal academic website
 theme: minima
 
 header_pages:
-  - about.md
+  - index.md
   - research.md
   - education.md
   - teaching.md
